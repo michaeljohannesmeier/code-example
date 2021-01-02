@@ -1,0 +1,6 @@
+[<User(name='ed', fullname='Ed Jones', nickname='eddy')>]
+[<User(name='wendy', fullname='Wendy Williams', nickname='windy')>, <User(name='mary', fullname='Mary Contrary', nickname='mary')>, <User(name='fred', fullname='Fred Flintstone', nickname='freddy')>]
+[<User(name='ed', fullname='Ed Jones', nickname='eddy')>, <User(name='fred', fullname='Fred Flintstone', nickname='freddy')>]
+[<User(name='ed', fullname='Ed Jones', nickname='eddy')>, <User(name='fred', fullname='Fred Flintstone', nickname='freddy')>]
+[<User(name='ed', fullname='Ed Jones', nickname='eddy')>, <User(name='fred', fullname='Fred Flintstone', nickname='freddy')>]
+[<User(name='wendy', fullname='Wendy Williams', nickname='windy')>, <User(name='mary', fullname='Mary Contrary', nickname='mary')>]
